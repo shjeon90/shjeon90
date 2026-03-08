@@ -55,6 +55,13 @@ My research focuses on **system/software security** — finding and exploiting v
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -64,39 +71,14 @@ My research focuses on **system/software security** — finding and exploiting v
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shjeon90&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shjeon90&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shjeon90&theme=radical" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shjeon90&theme=radical" height="165" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shjeon90&theme=radical" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shjeon90&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🏆 CVEs & Achievements
-
-> Notable vulnerabilities I've discovered are listed on my [homepage](https://shjeon90.github.io/cves).
-
-<!-- 주요 CVE를 여기에 추가하세요 -->
-
----
-
-## 📌 Featured Projects
-
-<!-- 핀 고정할 주요 리포지토리를 여기에 직접 소개할 수 있어요 -->
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔧 *[Your Project]* | *Brief description* | `C/C++` `Python` |
-| 🔧 *[Your Project]* | *Brief description* | `Rust` `LLVM` |
-
----
-
-## 📰 Recent News
-
-- 🏆 **DongHa Lee** won **Best Paper Award** for *"Automated Attack Surface Identification via XPC and IOKit in macOS"* at CISC-W
-- 🥇 Team **"떡갈비"** (feat. DongHa Lee) won *"TS 보안 허점을 찾아라! 2025"* by Korea Transportation Safety Authority
-- 🥇 Team **"오리고기부추무침"** (feat. DongHa Lee) won **WooriCON 2025** by Woori Bank
 
 ---
 
